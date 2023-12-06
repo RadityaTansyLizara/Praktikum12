@@ -129,7 +129,7 @@ while True:
 
 ## Hasil Program
 ### Menambahkan data & Melihat data
-![Alt text](image.png)
+![image](https://github.com/RadityaTansyLizara/Praktikum12/assets/147571863/34844fdd-1955-41e9-9af2-7305c12af661)
 
 ### Mengubah & menghapus data
-![Alt text](image-1.png)
+![image](https://github.com/RadityaTansyLizara/Praktikum12/assets/147571863/9c7ea893-6a98-4e11-bda9-45e46d153678)
